@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orange1">#FF8810</color>
+    <color name="orange2">#C0762A</color>
+    <color name="orange3">#8B5A1A</color>
+    <color name="orange4">#6B4210</color>
+
+    <color name="cookie_main">#B17331</color>
+    <color name="cookie_border">#5F3B14</color>
+    <color name="cookie_chocolate">#613301</color>
+</resources>

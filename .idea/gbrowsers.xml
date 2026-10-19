@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GBrowserService"><![CDATA[{
+  "history": [
+    {
+      "name": "GBrowser - IntelliJ IDEs Plugin | Marketplace",
+      "url": "https://plugins.jetbrains.com/plugin/14458-gbrowser"
+    },
+    {
+      "name": "GBrowser - IntelliJ IDEs Plugin | Marketplace",
+      "url": "https://plugins.jetbrains.com/auth#access_token=eyJraWQiOiIyIiwiYWxnIjoiUlMyNTYifQ.eyJjb250ZXh0X3ByaW5jaXBhbCI6ImV5SnJhV1FpT2lJeUlpd2lZV3huSWpvaVVsTXlOVFlpZlEuZXlKbmJHOWlZV3hmZFhObGNsOXBaQ0k2SWpjek16Umpaak5tTFRFd1lqUXRORGRoTkMwNVpUYzNMVEEzWlRNNE1qYzNOVGs1T1NJc0ltbHpjeUk2SW1oMGRIQnpPaTh2YUhWaUxtcGxkR0p5WVdsdWN5NWpiMjBpTENKemRXSWlPaUkzTXpNMFkyWXpaaTB4TUdJMExUUTNZVFF0T1dVM055MHdOMlV6T0RJM056VTVPVGtpTENKbGVIQWlPakUzT1RJek1ERXhOVE1zSW1Oc2FXVnVkRjlwWkNJNkltMWhjbXRsZEhCc1lXTmxJbjAuTnF1bkd5VDlST3dERjdLc19YNVdicEM2R2NDRk5fZWp4V0hXTjlManNweENVcFF3YUMzc3NmSGYxS1RESGxBZFBKMV9udDFqcWlNRUs0ZUplSHJhSGh1WTV1OGVON1RkbzRZNVpVVzRnWEpoazF2dExuM2tVdFVpdFFqNFNJeDNkeGhTOVIyMnh5VVhfRlBxUVIxeWwtYzFlczEtN29PMUZ3a3o4STFkX2E0Iiwic3ViIjoiNzMzNGNmM2YtMTBiNC00N2E0LTllNzctMDdlMzgyNzc1OTk5IiwiYXVkIjpbIjAtMC0wLTAtMCIsIm1hcmtldHBsYWNlIl0sInNjb3BlIjoiMC0wLTAtMC0wIiwiaXNzIjoiaHR0cHM6Ly9odWIuamV0YnJhaW5zLmNvbSIsImV4cCI6MTc5MjMwMTE1MywiaWF0IjoxNzkyMjk3NTUzLCJjbGllbnRfaWQiOiJtYXJrZXRwbGFjZSJ9.IiwSRF4R8dZsu9f9cV9VL9cMXH8YAcYeS9zUIr2S4nhPMIaf4fOBB4BqougoM26dBnF4wxWMWfLl2GEquOs_3AKavvQuGwU1H2NuFxI97sZFXxJ2dNZ4j3zYEevt0nan2iZAC2GAfGG4ciJM-Uo8f61pUBPLfejGlzh9OHFRm7s&token_type=Bearer&expires_in=3600&scope=0-0-0-0-0+marketplace&state=be9755b0-c7d5-449a-be2a-ef0503d0aa75"
+    },
+    {
+      "name": "GBrowser - IntelliJ IDEs Plugin | Marketplace",
+      "url": "https://plugins.jetbrains.com/"
+    },
+    {
+      "name": "Android Mobile App Developer Tools - Android Developers",
+      "url": "https://developer.android.com/"
+    },
+    {
+      "name": "Инструменты разработчика мобильных приложений для Android – Android Developers",
+      "url": "https://developer.android.com/?hl=ru"
+    },
+    {
+      "name": "Инструменты разработчика мобильных приложений для Android – Android Developers",
+      "url": "https://developer.android.com/tools/agents/android-cli/commands/docs?hl=fr"
+    },
+    {
+      "name": "Разработка для Android  |  Android Developers",
+      "url": "https://developer.android.com/develop?hl=ru"
+    },
+    {
+      "name": "Разработка для Android  |  Android Developers",
+      "url": "https://developer.android.com/get-started/overview?hl=ru"
+    },
+    {
+      "name": "Создайте свое первое приложение  |  Get started  |  Android Developers",
+      "url": "https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-1-pathway-2%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-first-app&%3Bhl=ru&hl=ru"
+    },
+    {
+      "name": "Create your first Android app  |  Android Developers",
+      "url": "https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app?continue=https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-2#codelab-https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app&;hl=ru"
+    },
+    {
+      "name": "Create your first Android app  |  Android Developers",
+      "url": "https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app?continue=https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-2#0"
+    },
+    {
+      "name": "Create your first Android app  |  Android Developers",
+      "url": "https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-2"
+    },
+    {
+      "name": "Android API reference  |  Android Developers",
+      "url": "https://developer.android.com/reference"
+    },
+    {
+      "name": "Android API reference  |  Android Developers",
+      "url": "https://developer.android.com/reference/androidx/packages"
+    },
+    {
+      "name": "Sign in - Google Accounts",
+      "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S151336641%3A1792297979733504&access_type=online&client_id=721724668570-nbkv1cfusk7kk4eni4pjvepaus73b13t.apps.googleusercontent.com&o2v=2&prompt=select_account&redirect_uri=https%3A%2F%2Fdeveloper.android.com%2Foauth2callback&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdeveloperprofiles+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdeveloperprofiles.award+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdevprofiles.full_control.firstparty+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgoogledevelopers&service=lso&state=%7B%22csrf_token%22%3A+%220a0e88153f1e9e0ca66e729cc5872a7e6e760b6f774bd65f1281788a4e8a8704%22%2C+%22return_url%22%3A+%22https%3A%2F%2Fdeveloper.android.com%2F_d%2Freturn%3Fcontinue%3Dhttps%253A%252F%252Fdeveloper.android.com%252Freference%252Fandroidx%252Fpackages%22%7D&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fv3%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPWPV6FE2RuSXXVTEe3joevt_AgRnQCxYipJU-invQwVe7byVwJWP2gFUDKNyVDW7fzDiYpBye9iZH5418MtJLtb9ebpEmf8YsfwFm31l15CEdPy754t3WrNdReF3GuPAmsevREy_Pgmea0T5azKmmdlglBimXOoJ0p7B8Ol4T6gjXkXyZ4NDrxs1QG9Jo7cxU-KpdRdpaXDiv8M35T6knmmbzJzXkH-xmz4T07lvpv-fbop1lyqn4R9EaHXKuAz4zx9alEgqM3gnFDyU_Rd38SQYOpz_w30Vd8Xfdy_C3ykUbUGXntj1y_PrZpUGrQ4b2VUBBXkfX7nbgHmj3mPImsWcJNoEfzkosCZD4dr9Fsc_RpRhZGRFkWhYO0DElMUOY2AgoCOoxEhuyG27uoe8zTHBPP8-hJsSKPrcPguZim8ll4S7vBbrYfEESp8sKKb-lPfgZsRX9sFM69RtfylKz6AoJYq9dA7yXreWH_erDhL031S24DDdjgmo_OadPGNpwXyBlz%26flowName%3DGeneralOAuthFlow%26as%3DS151336641%253A1792297979733504%26client_id%3D721724668570-nbkv1cfusk7kk4eni4pjvepaus73b13t.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fv3%252Fconsent%23&app_domain=https%3A%2F%2Fdeveloper.android.com&rart=ANgoxcfMXmWB9ElAVTLiIEEnJI2tRdeyrgtzyL73pY4dvrGx443G-E0xkW8BonUrYBMe2F0oyKKCLtjXSmks-o9Ek1AGiGHYKvq8tca80neHCVm3HD9HU18Cox3mleCzqmc9jXUhECrA"
+    }
+  ]
+}]]></component>
+</project>

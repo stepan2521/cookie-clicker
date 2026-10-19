@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="130dp"
+    android:height="130dp"
+    android:viewportWidth="130"
+    android:viewportHeight="130">
+    <path
+        android:pathData="M128,65C128,99.79 99.79,128 65,128C30.21,128 2,99.79 2,65C2,30.21 30.21,2 65,2C99.79,2 128,30.21 128,65Z"
+        android:strokeWidth="2.55"
+        android:fillColor="@color/cookie_main"
+        android:strokeColor="@color/cookie_border"/>
+    <path
+        android:pathData="M34.5,34.5m-7.5,0a7.5,7.5 0,1 1,15 0a7.5,7.5 0,1 1,-15 0"
+        android:fillColor="@color/cookie_chocolate"/>
+    <path
+        android:pathData="M57.5,64.5m-7.5,0a7.5,7.5 0,1 1,15 0a7.5,7.5 0,1 1,-15 0"
+        android:fillColor="@color/cookie_chocolate"/>
+    <path
+        android:pathData="M74.5,104.5m-7.5,0a7.5,7.5 0,1 1,15 0a7.5,7.5 0,1 1,-15 0"
+        android:fillColor="@color/cookie_chocolate"/>
+    <path
+        android:pathData="M79.5,26.5m-7.5,0a7.5,7.5 0,1 1,15 0a7.5,7.5 0,1 1,-15 0"
+        android:fillColor="@color/cookie_chocolate"/>
+    <path
+        android:pathData="M27.5,89.5m-7.5,0a7.5,7.5 0,1 1,15 0a7.5,7.5 0,1 1,-15 0"
+        android:fillColor="@color/cookie_chocolate"/>
+    <path
+        android:pathData="M94.5,57.5m-7.5,0a7.5,7.5 0,1 1,15 0a7.5,7.5 0,1 1,-15 0"
+        android:fillColor="@color/cookie_chocolate"/>
+</vector>
