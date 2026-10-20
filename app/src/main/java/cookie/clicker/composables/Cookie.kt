@@ -47,4 +47,5 @@ fun Cookie() {
                     .padding(bottom = 32.5.dp)
     
     )
+    Counter(cookies)
 }
